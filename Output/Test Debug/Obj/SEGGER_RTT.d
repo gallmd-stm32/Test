@@ -1,0 +1,8 @@
+Output/Test\ Debug/Obj/SEGGER_RTT.o: \
+ /home/matt/Development/code/st/embedded\ studio/Test/SEGGER_RTT.c \
+ /home/matt/Development/code/st/embedded\ studio/Test/SEGGER_RTT.h \
+ /home/matt/Development/code/st/embedded\ studio/Test/SEGGER_RTT_Conf.h \
+ /usr/share/segger_embedded_studio_for_arm_4.16a/include/stdlib.h \
+ /usr/share/segger_embedded_studio_for_arm_4.16a/include/__crossworks.h \
+ /usr/share/segger_embedded_studio_for_arm_4.16a/include/stdarg.h \
+ /usr/share/segger_embedded_studio_for_arm_4.16a/include/string.h
